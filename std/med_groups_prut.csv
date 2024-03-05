@@ -1,0 +1,439 @@
+Drug_name,Drug_code,Class
+Hydralazine HCl,HYD#-N1,antihypertensive
+Furosemide,FURS-I-,antihypertensive
+Labetalol HCl,LABE-I-,antihypertensive
+Labetalol HCl,TDAT-I-,antihypertensive
+Esmolol HCl,ESE$-I-,antihypertensive
+Esmolol HCl,ESES-I-,antihypertensive
+Esmolol HCl,BREB-I-,antihypertensive
+Furosemide,FUHM-I-,antihypertensive
+Labetalol HCl,AVEX1I-,antihypertensive
+Mannitol,MANO-I-,antihypertensive
+Cilostazol,PLET-W-,antihypertensive
+Cilostazol,PLSR-C-,antihypertensive
+Flunarizine HCl,FLNC-C-,antihypertensive
+Flunarizine HCl,FLNP-C-,antihypertensive
+Sildenafil citrate,REVA-T-,antihypertensive
+Furosemide,FURT-T-,antihypertensive
+Furosemide,FUFU-T-,antihypertensive
+Hydralazine HCl,HYDH-T-,antihypertensive
+Hydralazine HCl,HYDI-T-,antihypertensive
+Losartan potassium,LOSL1T-,antihypertensive
+Losartan potassium,LOSL-T-,antihypertensive
+Losartan potassium,LOST1T-,antihypertensive
+Metoprolol tartrate,MEPM-T-,antihypertensive
+Sildenafil citrate,SILD2T-,antihypertensive
+Spironolactone,SPIH-T-,antihypertensive
+Perindopril arginine+Indapamide hemihydrate+Amlodipine besylate,TRIX1T-,antihypertensive
+Perindopril arginine+Indapamide hemihydrate+Amlodipine besylate,TRIX-T-,antihypertensive
+Selexipag,UPTR-T-,antihypertensive
+Zofenopril Ca,BIFR-T-,antihypertensive
+Amlodipine besylate+Losartan potassium,FAVO1T-,antihypertensive
+Amlodipine besylate+Losartan potassium,FAVO-T-,antihypertensive
+Amlodipine besylate+Olmesartan medoxomil,NORM1T-,antihypertensive
+Amlodipine besylate+Olmesartan medoxomil,NORM-T-,antihypertensive
+Amlodipine besylate+Valsartan+Hydrochlorothiazide,EXFH1T-,antihypertensive
+Amlodipine besylate+Valsartan+Hydrochlorothiazide,EXFH-T-,antihypertensive
+Ambrisentan,VOLI-T-,antihypertensive
+Azilsartan medoxomil,EDAR-T-,antihypertensive
+Azilsartan medoxomil potassium+Chlorthalidone,EDAC-T-,antihypertensive
+Bisoprolol fumarate,BIBI-T-,antihypertensive
+Bisoprolol fumarate,BISS-T-,antihypertensive
+Bosentan,BOSI-T-,antihypertensive
+Candesartan cilexetil,CAND1T-,antihypertensive
+Candesartan cilexetil,CAND-T-,antihypertensive
+Candesartan cilexetil+Amlodipine besylate,UNIA-T-,antihypertensive
+Chlorthalidone,CHOT-T-,antihypertensive
+Cilostazol,CIBZ-T-,antihypertensive
+Cilostazol,CILO-T-,antihypertensive
+EGb761 (Ginkgo biloba),TEBO-T-,antihypertensive
+Fimasartan potassium,KANB-T-,antihypertensive
+Irbesartan,IRBE1T-,antihypertensive
+Irbesartan,IRBE-T-,antihypertensive
+Irbesartan,IRBW1T-,antihypertensive
+Irbesartan,IRBW-T-,antihypertensive
+Macitentan,OPSU-T-,antihypertensive
+Macitentan,OPSP-T-,antihypertensive
+Metoprolol succinate,BLOZ-T-,antihypertensive
+Nebivolol,NEBB-T-,antihypertensive
+Nicergoline,NISE-T-,antihypertensive
+Olmesartan medoxomil,OLME1T-,antihypertensive
+Olmesartan medoxomil,OLME-T-,antihypertensive
+Sacubitril+Valsartan,ENTR1T-,antihypertensive
+Sacubitril+Valsartan,ENTR2T-,antihypertensive
+Sacubitril+Valsartan,ENTR-T-,antihypertensive
+Selexipag,UPTR3T-,antihypertensive
+Telmisartan+Amlodipine besylate,TWYN1T-,antihypertensive
+Telmisartan+Amlodipine besylate,TWYN2T-,antihypertensive
+Telmisartan+Amlodipine besylate,TWYN3T-,antihypertensive
+Telmisartan+Amlodipine besylate,TWYN-T-,antihypertensive
+Tolvaptan,SAMS-T-,antihypertensive
+Valsartan,VATA1T-,antihypertensive
+Valsartan,VATA-T-,antihypertensive
+Valsartan,VALV1T-,antihypertensive
+Valsartan,VALV-T-,antihypertensive
+Valsartan+Hydrochlorothiazide,COTA1T-,antihypertensive
+Valsartan+Hydrochlorothiazide,COTA-T-,antihypertensive
+Amlodipine besylate+Valsartan,EXFG1T-,antihypertensive
+Amlodipine besylate+Valsartan,EXFG2T-,antihypertensive
+Bisoprolol hemifumarate+Hydrochlorothiazide,LODZ1T-,antihypertensive
+Bisoprolol hemifumarate+Hydrochlorothiazide,LODZ2T-,antihypertensive
+Nimodipine,NIMT-T-,antihypertensive
+Telmisartan+Hydrochlorothiazide,MICP1T-,antihypertensive
+Telmisartan+Hydrochlorothiazide,MICP2T-,antihypertensive
+Aliskiren+Hydrochlorothiazide,RASH1T-,antihypertensive
+Aliskiren+Hydrochlorothiazide,RASH-T-,antihypertensive
+Candesartan cilexetil+Hydrochlorothiazide,BLPP1T-,antihypertensive
+Candesartan cilexetil+Hydrochlorothiazide,BLPP-T-,antihypertensive
+Dihydroergocristine mesylate+Clopamide+Reserpine,BRIN-T-,antihypertensive
+Dihydroergocryptine mesylate+Dihydroergocristine mesylate+Dihydroergocornine mesylate,HYDF-T-,antihypertensive
+Dihydroergocryptine mesylate+Dihydroergocristine mesylate+Dihydroergocornine mesylate,HYDG-T-,antihypertensive
+Irbesartan+Hydrochlorothiazide,COAP1T-,antihypertensive
+Irbesartan+Hydrochlorothiazide,COAP2T-,antihypertensive
+Irbesartan+Hydrochlorothiazide,COAP3T-,antihypertensive
+Losartan potassium+Hydrochlorothiazide,HYZA1T-,antihypertensive
+Losartan potassium+Hydrochlorothiazide,HYZA-T-,antihypertensive
+Losartan potassium+Hydrochlorothiazide,FOZA-T-,antihypertensive
+Nicergoline,SERM1T-,antihypertensive
+Nicergoline,SERM-T-,antihypertensive
+Olmesartan medoxomil+Hydrochlorothiazide,OLMP1T-,antihypertensive
+Olmesartan medoxomil+Hydrochlorothiazide,OLMP-T-,antihypertensive
+Perindopril arginine+Amlodipine besylate,COVE-T-,antihypertensive
+Perindopril arginine+Indapamide hemihydrate,COVP1T-,antihypertensive
+Quinapril+Hydrochlorothiazide,ACCT-T-,antihypertensive
+Ramipril+Hydrochlorothiazide,TRTC-T-,antihypertensive
+Valsartan+Hydrochlorothiazide,CODV1T-,antihypertensive
+Valsartan+Hydrochlorothiazide,CODV1T1,antihypertensive
+Valsartan+Hydrochlorothiazide,CODV-T-,antihypertensive
+Metoprolol tartrate,MEPR-T-,antihypertensive
+Acetazolamide,DIMX-T-,antihypertensive
+Methyldopa,ALDM2T-,antihypertensive
+Methyldopa,MTDO1T-,antihypertensive
+Methyldopa,MTDO-T-,antihypertensive
+Metoprolol tartrate,MEPL-T-,antihypertensive
+Metoprolol tartrate,BLOC-T-,antihypertensive
+Propranolol HCl,PPNL1T-,antihypertensive
+Propranolol HCl,PPNL2T-,antihypertensive
+Propranolol HCl,INDE1T-,antihypertensive
+Almitrine bismesylate+Raubasine,DUXR-T-,antihypertensive
+Aliskiren,RASI1T-,antihypertensive
+Aliskiren,RASI-T-,antihypertensive
+Bosentan,TRCL-T-,antihypertensive
+Cilostazol,PLET1T-,antihypertensive
+Cilostazol,PLET-T-,antihypertensive
+Hydralazine HCl,HYDZ-T-,antihypertensive
+Hydralazine HCl,APRL2T-,antihypertensive
+Irbesartan,APRO1T-,antihypertensive
+Irbesartan,APRO2T-,antihypertensive
+Triamterene+Hydrochlorothiazide,DYAZ-T-,antihypertensive
+Acetazolamide,ACZ#-N-,antihypertensive
+Furosemide,FUR#-N-,antihypertensive
+Hydrochlorothiazide,HCT#-N-,antihypertensive
+Spironolactone,SPR#-N-,antihypertensive
+Sodium nitroprusside,SODN-I-,antihypertensive
+Nimodipine,NIMO-I-,antihypertensive
+Furosemide,LASX-I1,antihypertensive
+Furosemide,LASX-I2,antihypertensive
+Hydralazine HCl,HYDZ-I-,antihypertensive
+Labetalol HCl,AVEX-I-,antihypertensive
+Mannitol,MANT-I1,antihypertensive
+Mannitol,MANT-I2,antihypertensive
+Flunarizine HCl,FLNZ-T-,antihypertensive
+Ramipril,CORP2T-,antihypertensive
+Ramipril,CORP3T-,antihypertensive
+Atenolol,ATNL1T-,antihypertensive
+Atenolol,ATNL2T-,antihypertensive
+Atenolol,ATNL3T-,antihypertensive
+Atenolol,TENM1T-,antihypertensive
+Atenolol,TENM2T-,antihypertensive
+Clonidine HCl,CLND1T-,antihypertensive
+Enalapril,RENT1T-,antihypertensive
+Enalapril,RENT2T-,antihypertensive
+Enalapril,ENAR1T-,antihypertensive
+Enalapril,ENAR-T-,antihypertensive
+Furosemide,FURS-T-,antihypertensive
+Furosemide,LASX1T-,antihypertensive
+Furosemide,LASX2T-,antihypertensive
+Quinapril,ACCP2T-,antihypertensive
+Quinapril,ACCP3T-,antihypertensive
+Torasemide,UNAT-T-,antihypertensive
+Captopril,CAPO-T-,antihypertensive
+Captopril,CAPR1T-,antihypertensive
+Captopril,CAPR2T-,antihypertensive
+Carvedilol,CARV1T-,antihypertensive
+Carvedilol,CARV-T-,antihypertensive
+Carvedilol,DILA1T-,antihypertensive
+Carvedilol,DILA-T-,antihypertensive
+Doxazosin mesylate,CADR1T-,antihypertensive
+Doxazosin mesylate,CADR2T-,antihypertensive
+Doxazosin mesylate,DOXA1T-,antihypertensive
+Doxazosin mesylate,DOXA-T-,antihypertensive
+Hydrochlorothiazide+Amiloride HCl,MODT-T-,antihypertensive
+Hydrochlorothiazide+Amiloride HCl,POUR-T-,antihypertensive
+Losartan potassium,COZA1T-,antihypertensive
+Prazosin HCl,MINP1T-,antihypertensive
+Prazosin HCl,MINP2T-,antihypertensive
+Prazosin HCl,LOPS1T-,antihypertensive
+Prazosin HCl,LOPS-T-,antihypertensive
+Spironolactone,HYLS-T-,antihypertensive
+Spironolactone,ALDT1T-,antihypertensive
+Spironolactone,ALDT-T-,antihypertensive
+Bisoprolol fumarate,BISP-T-,antihypertensive
+Cinnarizine,CINN-T-,antihypertensive
+Bisoprolol fumarate,CONC1T-,antihypertensive
+Bisoprolol fumarate,CONC2T-,antihypertensive
+Candesartan cilexetil,BLOP2T-,antihypertensive
+Cinnarizine,STUG-T-,antihypertensive
+Cilazapril,INHB1T-,antihypertensive
+Flunarizine HCl,SIBL-T-,antihypertensive
+Imidapril HCl,TANT-T-,antihypertensive
+Indapamide hemihydrate sustained,NATS-T-,antihypertensive
+Lisinopril dihydrate,ZEST1T-,antihypertensive
+Lisinopril dihydrate,ZEST3T-,antihypertensive
+Minoxidil,LONT1T-,antihypertensive
+Minoxidil,LONT2T-,antihypertensive
+Olmesartan medoxomil,OLMT1T-,antihypertensive
+Perindopril tert-butylamine,COVS-T-,antihypertensive
+Perindopril arginine,COVS3T-,antihypertensive
+Perindopril arginine,COVS4T-,antihypertensive
+Ramipril,TRTA3T-,antihypertensive
+Ramipril,TRTA4T-,antihypertensive
+Telmisartan,MICD2T-,antihypertensive
+Valsartan,DIVN1T-,antihypertensive
+Valsartan,DIVN2T-,antihypertensive
+Candesartan cilexetil,BLOP1T-,antihypertensive
+Cilazapril,INHB-T-,antihypertensive
+Doxazosin mesylate,CADR3T-,antihypertensive
+Doxazosin mesylate,CADX-T-,antihypertensive
+Doxazosin mesylate,DOXA2T-,antihypertensive
+Hydrochlorothiazide,HCTZ1T-,antihypertensive
+Lisinopril dihydrate,ZEST2T-,antihypertensive
+Losartan potassium,COZA-T-,antihypertensive
+Losartan potassium,LOST-T-,antihypertensive
+Nebivolol,NEBL-T-,antihypertensive
+Olmesartan medoxomil,OLMT-T-,antihypertensive
+Ramipril,TRTA1T-,antihypertensive
+Telmisartan,MICD1T-,antihypertensive
+Valsartan,DIVN-T-,antihypertensive
+Alirocumab,PRAL1I-,antidyslipidemic
+Alirocumab,PRAL-I-,antidyslipidemic
+Evolocumab,REPT-I-,antidyslipidemic
+Fenofibrate,FENP-C-,antidyslipidemic
+Fenofibric acid,TRIP-C-,antidyslipidemic
+Atorvastatin calcium,ATOR2T-,antidyslipidemic
+Atorvastatin calcium,ATNP-T-,antidyslipidemic
+Atorvastatin calcium,ATOC-T-,antidyslipidemic
+Gemfibrozil,GENP-T-,antidyslipidemic
+Simvastatin,SINP-T-,antidyslipidemic
+Ezetimibe+Atorvastatin calcium,ATOZ-T-,antidyslipidemic
+Atorvastatin calcium,ATOR1T-,antidyslipidemic
+Atorvastatin calcium,ATOR-T-,antidyslipidemic
+Atorvastatin calcium,ATOS1T-,antidyslipidemic
+Atorvastatin calcium,ATOS-T-,antidyslipidemic
+Atorvastatin calcium,ATOC1T-,antidyslipidemic
+Ezetimibe,EZES-T-,antidyslipidemic
+Ezetimibe+Simvastatin,VYTO2T-,antidyslipidemic
+Pitavastatin Calcium,PIPI-T-,antidyslipidemic
+Pitavastatin Calcium,LIVP-T-,antidyslipidemic
+Rosuvastatin,VIVA1T-,antidyslipidemic
+Rosuvastatin,VIVA-T-,antidyslipidemic
+Rosuvastatin,ROSU1T-,antidyslipidemic
+Rosuvastatin,ROSU-T-,antidyslipidemic
+Ezetimibe+Simvastatin,VYTO1T-,antidyslipidemic
+Ezetimibe+Simvastatin,VYTO-T-,antidyslipidemic
+Bezafibrate,BEZL-T-,antidyslipidemic
+Bezafibrate,BEZR-T-,antidyslipidemic
+Bezafibrate,EVIT-T-,antidyslipidemic
+Fenofibrate (Nanoparticles),SUPL1T-,antidyslipidemic
+Gemfibrozil,LOPD-T-,antidyslipidemic
+Gemfibrozil,LOPO-T-,antidyslipidemic
+Gemfibrozil,GEFM1T-,antidyslipidemic
+Gemfibrozil,GEMF-T-,antidyslipidemic
+Nicotinamide,NICO2T-,antidyslipidemic
+Nicotinic acid,NICO1T-,antidyslipidemic
+Nicotinic acid prolong release,NISR-T-,antidyslipidemic
+Cholestyramine,QUES-W-,antidyslipidemic
+Cholestyramine,RESI-W-,antidyslipidemic
+Omega-3-acid esters,OMAC-C-,antidyslipidemic
+Fluvastatin sodium,LESC1C-,antidyslipidemic
+Fenofibrate,LIPN-C-,antidyslipidemic
+Fenofibrate,FENF1C-,antidyslipidemic
+Fenofibrate,FENF2C-,antidyslipidemic
+Fenofibrate (Micronised),FENF3C-,antidyslipidemic
+Gemfibrozil,LOPD-C-,antidyslipidemic
+Gemfibrozil,GEMF-C-,antidyslipidemic
+Atorvastatin calcium,LIPR3T-,antidyslipidemic
+Simvastatin,SIMV1T-,antidyslipidemic
+Simvastatin,SIMV2T-,antidyslipidemic
+Simvastatin,SIMV-T-,antidyslipidemic
+Simvastatin,ZOCR1T-,antidyslipidemic
+Simvastatin,ZOCR2T-,antidyslipidemic
+Atorvastatin calcium,LIPR1T-,antidyslipidemic
+Fluvastatin sodium,LESX-T-,antidyslipidemic
+Pravastatin sodium,MEVL2T-,antidyslipidemic
+Pravastatin sodium,MEVL3T-,antidyslipidemic
+Rosuvastatin,CRES2T-,antidyslipidemic
+Simvastatin,ZOCR3T-,antidyslipidemic
+Atorvastatin calcium,LIPR2T-,antidyslipidemic
+Ezetimibe,EZET-T-,antidyslipidemic
+Pitavastatin Calcium,LIVA-T-,antidyslipidemic
+Rosuvastatin,CRES1T-,antidyslipidemic
+Dulaglutide,TRUL-I-,antidiabetic
+Insulin isophane susp. (NPH),INSB-I-,antidiabetic
+Insulin regular human+Insulin NPH,INSC-I-,antidiabetic
+Insulin lispro+Insulin lispro protamin susp. (NPL),HUMK1I-,antidiabetic
+Insulin glargine,TOUJ-I-,antidiabetic
+Insulin glargine+Lixisenatide,SOLQ1I-,antidiabetic
+Insulin glargine+Lixisenatide,SOLQ-I-,antidiabetic
+Insulin glulisine,APID-I-,antidiabetic
+Insulin degludec,TRES-I-,antidiabetic
+Insulin degludec+Insulin Aspart,RYZO-I-,antidiabetic
+Insulin degludec+Liraglutide,XULT-I-,antidiabetic
+Insulin lispro+Insulin lispro protamin susp. (NPL),HUMK-I-,antidiabetic
+Semaglutide,OZEM1I-,antidiabetic
+Semaglutide,OZEM2I-,antidiabetic
+Semaglutide,OZEM-I-,antidiabetic
+Metformin,MEFF-T-,antidiabetic
+Alogliptin benzoate,NESI-T-,antidiabetic
+Alogliptin benzoate+Pioglitazone HCl,OSEN1T-,antidiabetic
+Alogliptin benzoate+Pioglitazone HCl,OSEN-T-,antidiabetic
+Canagliflozin,INVO1T-,antidiabetic
+Canagliflozin,INVO-T-,antidiabetic
+Dapagliflozin propanediol monohydrate,FORX-T-,antidiabetic
+Dapagliflozin propanediol monohydrate+Metformin,XIGD-T-,antidiabetic
+Dapagliflozin propanediol monohydrate+Metformin XR,XIGD1T-,antidiabetic
+Empagliflozin,JARD1T-,antidiabetic
+Empagliflozin,JARD-T-,antidiabetic
+Empagliflozin+Linagliptin,GLYX-T-,antidiabetic
+Empagliflozin+Metformin,JADU1T-,antidiabetic
+Empagliflozin+Metformin,JADU-T-,antidiabetic
+Gemigliptin tartrate sesquihydrate,ZEMI-T-,antidiabetic
+Glimepiride+Metformin,AMSR-T-,antidiabetic
+Glimepiride+Metformin,AMAM-T-,antidiabetic
+Linagliptin,TRAJ-T-,antidiabetic
+Linagliptin+Metformin,TRAD1T-,antidiabetic
+Linagliptin+Metformin,TRAD-T-,antidiabetic
+Luseogliflozin hydrate,LUSE1T-,antidiabetic
+Luseogliflozin hydrate,LUSE-T-,antidiabetic
+Metformin,MEFD-T-,antidiabetic
+Metformin,GLUX-T-,antidiabetic
+Saxagliptin HCl+Metformin,KOMB-T-,antidiabetic
+Sitagliptin phosphate monohydrate,JANU1T-,antidiabetic
+Trelagliptin succinate,ZAFK-T-,antidiabetic
+Vildagliptin+Metformin,GALM1T-,antidiabetic
+Repaglinide,NOVN2T-,antidiabetic
+Repaglinide,NOVN3T-,antidiabetic
+Sitagliptin phosphate monohydrate+Metformin,JANM1T-,antidiabetic
+Sitagliptin phosphate monohydrate+Metformin,JANM-T-,antidiabetic
+Pioglitazone HCl+Metformin,ACTM-T-,antidiabetic
+Vildagliptin+Metformin,GALM-T-,antidiabetic
+Voglibose,BASN1T-,antidiabetic
+Voglibose,BASN2T-,antidiabetic
+Acarbose,GLCB1T-,antidiabetic
+Acarbose,GLCB2T-,antidiabetic
+Chlorpropamide,DIBN2T-,antidiabetic
+Gliclazide,DIMC-T-,antidiabetic
+Gliclazide,DIMR1T-,antidiabetic
+Gliclazide,GLCZ-T-,antidiabetic
+Gliclazide,GLMR-T-,antidiabetic
+Metformin,MEFM-T-,antidiabetic
+Metformin,GLUP1T-,antidiabetic
+Metformin,GLUP-T-,antidiabetic
+Metformin,SIFM2T-,antidiabetic
+Sitagliptin phosphate monohydrate,JANU-T-,antidiabetic
+Insulin regular,IACH-I0,antidiabetic
+Insulin neutral soln.human,IACH-I-,antidiabetic
+Insulin isophane susp. (NPH),HUMN-I-,antidiabetic
+Insulin isophane susp. (NPH),INIH-I-,antidiabetic
+Insulin isophane susp. (NPH)+Insulin regular human,INMT-I-,antidiabetic
+Insulin isophane susp. (NPH)+Insulin regular human,HUML-I-,antidiabetic
+Insulin regular human,HUMR-I-,antidiabetic
+Insulin glargine,LANT-I-,antidiabetic
+Insulin neutral soln.human,IAPP-I-,antidiabetic
+Insulin isophane susp. (NPH),HUNC-I1,antidiabetic
+Insulin isophane susp. (NPH),INIP-I1,antidiabetic
+Insulin isophane susp. (NPH)+Insulin regular human,INMP-I2,antidiabetic
+Insulin isophane susp. (NPH)+Insulin regular human,HUSC-I1,antidiabetic
+Insulin lispro,HUMC-I-,antidiabetic
+Insulin lispro+Insulin lispro protamin susp. (NPL),HUMM-I-,antidiabetic
+Insulin glargine,LANO-I-,antidiabetic
+Insulin Aspart,NOVP-I-,antidiabetic
+Insulin Aspart+Protaminated Insulin Aspart,NOVF-I-,antidiabetic
+Insulin Aspart+Protaminated Insulin Aspart,NOVM-I-,antidiabetic
+Insulin Detemir,LEVE-I-,antidiabetic
+Liraglutide,VICT-I-,antidiabetic
+Exenatide,BYET1I-,antidiabetic
+Exenatide,BYET-I-,antidiabetic
+Glibenclamide,GBCM-T-,antidiabetic
+Glibenclamide,DAON-T-,antidiabetic
+Glipizide,GLIZ-T-,antidiabetic
+Glipizide,MIND-T-,antidiabetic
+Pioglitazone HCl,PIOG1T-,antidiabetic
+Pioglitazone HCl,ACTO1T-,antidiabetic
+Glimepiride,AMAR2T-,antidiabetic
+Pioglitazone HCl,ACTO3T-,antidiabetic
+Vildagliptin,GALV-T-,antidiabetic
+Glimepiride,AMAR1T-,antidiabetic
+Pioglitazone HCl,PIOG-T-,antidiabetic
+Pioglitazone HCl,ACTO2T-,antidiabetic
+Saxagliptin HCl,ONGY-T-,antidiabetic
+Bemiparin,HIBO1I-,anticlotting
+Bemiparin,HIBO2I-,anticlotting
+Bemiparin,HIBO3I-,anticlotting
+Bemiparin,HIBO-I-,anticlotting
+Tinzaparin sodium,INNS-I-,anticlotting
+Tinzaparin sodium,INNS-I1,anticlotting
+Tinzaparin sodium,INNS-I2,anticlotting
+Heparin sodium,HEFK-I-,anticlotting
+Streptokinase,STTH-I-,anticlotting
+Dabigatran etexilate,PRAD2C-,anticlotting
+Clopidogrel,PLAG-T-,anticlotting
+Clopidogrel,CLAP-T-,anticlotting
+Limaprost alfadex,OPAL-T-,anticlotting
+Apixaban,ELIQ1T-,anticlotting
+Clopidogrel+Acetylsalicylic acid,COPL-T-,anticlotting
+Edoxaban tosilate,LIXI-T-,anticlotting
+Prasugrel HCl,EFFI-T-,anticlotting
+Rivaroxaban,XARE1T-,anticlotting
+Rivaroxaban,XARE2T-,anticlotting
+Rivaroxaban,XARE3T-,anticlotting
+Selexipag,UPTF-T-,anticlotting
+Selexipag,UPTR1T-,anticlotting
+Selexipag,UPTR2T-,anticlotting
+Selexipag,UPTR4T-,anticlotting
+Selexipag,UPTR5T-,anticlotting
+Selexipag,UPTR6T-,anticlotting
+Beraprost sodium,DORN-T-,anticlotting
+Ticagrelor,BRIL-T-,anticlotting
+Abciximab,REOP-I-,anticlotting
+Anagrelide HCl monohydrate,AGLN-C-,anticlotting
+Iloprost,VETV-X-,anticlotting
+Eptifibatide,INTE2I-,anticlotting
+Eptifibatide,INTE1I-,anticlotting
+Heparin sodium,HEPR-I-,anticlotting
+Teripressin,GLPS-I-,anticlotting
+Tinzaparin sodium,INNH-I-,anticlotting
+Alteplase,ACTY-I-,anticlotting
+Tenecteplase,METE-I-,anticlotting
+Dipyridamole,PSAN-I-,anticlotting
+Enoxaparin sodium,CLEX1I-,anticlotting
+Enoxaparin sodium,CLEX2I-,anticlotting
+Enoxaparin sodium,CLEX3I-,anticlotting
+Fondaparinux sodium,ARIX-I-,anticlotting
+Iloprost,ILOM-I-,anticlotting
+Nadroparin calcium,FRXP1I-,anticlotting
+Nadroparin calcium,FRXP2I-,anticlotting
+Nadroparin calcium,FRXP4I-,anticlotting
+Streptokinase,STRT1I-,anticlotting
+Streptokinase,STRT-I-,anticlotting
+Sulodexide,VESS-C-,anticlotting
+Dabigatran etexilate,PRAD1C-,anticlotting
+Dabigatran etexilate,PRAD-C-,anticlotting
+Dipyridamole+Acetylsalicylic acid,AGGN-C-,anticlotting
+Triflusal,GRND-C-,anticlotting
+Ticlopidine HCl,TICL-T-,anticlotting
+Warfarin sodium,ORFR1T-,anticlotting
+Warfarin sodium,ORFR2T-,anticlotting
+Clopidogrel,CLOD-T-,anticlotting
+Clopidogrel,PLAV-T-,anticlotting
+Rivaroxaban,XARE-T-,anticlotting

@@ -1,0 +1,258 @@
+name_with_units,new_name,mul_factor
+"Absolute basophil co,x 10\S\3/cumm",Absolute basophil,1
+"Absolute basophil co,x 10\S\3/ul",Absolute basophil,1
+"Absolute eosinophil,x 10\S\3/cumm",Absolute eosinophil,1
+"Absolute eosinophil,x 10\S\3/ul",Absolute eosinophil,1
+"Absolute lymphocte c,x 10\S\3/ul",Absolute lymphocyte,1
+"Absolute lymphocyte,x 10\S\3/cumm",Absolute lymphocyte,1
+"Absolute lymphocyte,x 10\S\3/ul",Absolute lymphocyte,1
+"Absolute monocyte co,x 10\S\3/cumm",Absolute monocyte,1
+"Absolute monocyte co,x 10\S\3/ul",Absolute monocyte,1
+"Absolute neutrophil,x 10\S\3/cumm",Absolute neutrophil,1
+"Absolute neutrophil,x 10\S\3/ul",Absolute neutrophil,1
+"Acanthocyte,",Acanthocyte,1
+"Anisocytosis,",Anisocytosis,1
+"Atyp.lymphocyte,%",Atypical lymphocyte,1
+"Auto agglutination,",Auto agglutination,1
+"Band form,%",Band form,1
+"Basophil,%",Basophil,1
+"Basophilic stippling,",Basophilic stippling,1
+"Blast (no lineage sp,%",Blast,1
+"Blast,%",Blast,1
+"Burr cells,",Burr cells,1
+"Comment,",Comment,1
+"Crenated RBC,",Crenated RBC,1
+"Echinocyte,",Echinocyte,1
+"Eosinophils,%",Eosinophils,1
+"Giant platelet,",Giant platelet,1
+"Giant plt.,",Giant platelet,1
+"HCT,%",Hct,1
+"Hematocrit (Hct),%",Hct,1
+"Hematocrit (Hct),Hep,%",Hct,1
+"HGB,g/dL",Hb,1
+"Howell Jolly body,",Howell Jolly body,1
+"Hypersegmented of PM,%",Hypersegmented of PM,1
+"Hypochromia,",Hypochromia,1
+"IG,%",IG,1
+"Immature cell (undif,",Immature cell undif,1
+"Immature cell (undif,%",Immature cell undif,1
+"Immature lymphoid ce,%",Immature lymphoid cell,1
+"LUC,%",LUC,1
+"Lymphoblast,%",Lymphoblast,1
+"Lymphocyte,%",Lymphocyte,1
+"Lymphoma cell,%",Lymphoma cell,1
+"Macrocyte,",Macrocyte,1
+"MCH,pg",MCH,1
+"MCHC,g/dL",MCHC,1
+"MCV,fL",MCV,1
+"Metamyelocyte,%",Metamyelocyte,1
+"Microcyte,",Microcyte,1
+"Monoblast,%",Monoblast,1
+"Monocyte,%",Monocyte,1
+"MPV,fL",MPV,1
+"Myeloblast,%",Myeloblast,1
+"Myelocyte,%",Myelocyte,1
+"Neutrophils,%",Neutrophils,1
+"NRBC,cells/100 WBC",NRBC,1
+"Ovalocyte,",Ovalocyte,1
+"Pappenheimer bodies,",Pappenheimer bodies,1
+"Plasma cell,",Plasma cell,1
+"Plt clumping,",Plt clumping,1
+"Plt smear,",Plt smear,1
+"PLT,x 10\S\3/cumm",Plt,1
+"Poikilocytosis,",Poikilocytosis,1
+"Polychromasia,",Polychromasia,1
+"Prolymphocyte,%",Prolymphocyte,1
+"Promonocyte,%",Promonocyte,1
+"Promyelocyte,%",Promyelocyte,1
+"Pronormoblast,%",Pronormoblast,1
+"RBC Morpho.,",RBC Morpho,1
+"RBC,x 10\S\6/cumm",RBC,1
+"RDW,%",RDW,1
+"Report from DI60-A b,",Report from DI60-A b,1
+"Report from DI60-B b,",Report from DI60-B b,1
+"Reticulocyte count,%",Reticulocyte count,1
+"Rouleax formation,",Rouleax formation,1
+"Schistocyte,",Schistocyte,1
+"Sickle cell,",Sickle cell,1
+"Smudge cell,",Smudge cell,1
+"Spherocyte,",Spherocyte,1
+"Stomatocyte,",Stomatocyte,1
+"Target cell,",Target cell,1
+"Tear drop,",Tear drop,1
+"Toxic granulation,",Toxic granulation,1
+"Transform lymphocyte,",Transform lymphocyte,1
+"WBC corrected,x 10\S\3/cumm",Corrected WBC,1
+"WBC,x 10\S\3/cumm",WBC,1
+"White cell count,x 10\S\3/cumm",WBC,1
+"Calcium,mg/dL",Calcium,1
+"Calcium,mmol/L",Calcium,4.008016032
+"Carbondioxide (Clott,mmol/L",Carbondioxide,1
+"Carbondioxide,mmol/L",Carbondioxide,1
+"Chloride,mmol/L",Chloride,1
+"Phosphorus,mg/dL",Phosphorus,0.323
+"Phosphorus,mmol/L",Phosphorus,1
+"Potassium,mmol/L",Potassium,1
+"Sodium,mmol/L",Sodium,1
+"CK-MB Fraction,U/L",CK-MB Fraction,1
+"CK-MB Fraction:Clot,U/L",CK-MB Fraction,1
+"CK-MB Mass,ng/mL",CK-MB Mass,1
+"C-reactive protein,mg/L",C-reactive protein,1
+"Creatine kinase,U/L",Creatine kinase,1
+"Homocysteine in plas,umol/L",Homocysteine,1
+"hs Troponin I,ng/L",hs Troponin I,1
+"hs Troponin T,ng/L",hs Troponin T,1
+"Myoglobin,ng/mL",Myoglobin,1
+"Troponin T,ng/L",Troponin T,1
+"Troponin T,ng/mL",Troponin T,1000
+"Lupus Anticoagulant,",Lupus Anticoagulant,1
+"Anti Cardiolipin IgG,GPL",Anti Cardiolipin IgG,1
+"Anti Cardiolipin IgG,U/mL",Anti Cardiolipin IgG,1
+"Anti-DNA,",Anti-DNA,1
+"Anti-DNA,IU/mL",Anti-DNA,1
+"C3c,",C3c,1
+"C3c,g/L",C3c,1000
+"C3c,ug/mL",C3c,1
+"C4,g/L",C4,1000
+"C4,ug/mL",C4,1
+"c-ANCA/PR3 (ELISA) ,,RU/mL",c-ANCA/PR3,1
+"c-ANCA/PR3 (ELISA) ,,U/mL",c-ANCA/PR3,1
+"CH50,%",CH50,1
+"CH50,U/mL",CH50,1
+"dsDNA,",dsDNA,1
+"FK506 (Tacrolimus),ng/mL",FK506,1
+"p-ANCA/MPO (ELISA),,RU/mL",p-ANCA/MPO,1
+"p-ANCA/MPO (ELISA),,U/mL",p-ANCA/MPO,1
+"Sirolimus,ng/mL",Sirolimus,1
+"FSH,mIU/mL",FSH,1
+"Serum iron,ug/dL",Serum iron,1
+"Serum iron,umol/L",Serum iron,5.586592179
+"TIBC,ug/dL",TIBC,1
+"TIBC,umol/L",TIBC,5.586592179
+"Doner's name,",Doner name,1
+"HLA Ab Screening,",HLA Ab Screening,1
+"MFI Class I,",MFI Class I,1
+"MFI Class II,",MFI Class II,1
+"Specificity Class I,",Specificity Class I,1
+"Specificity Class II,",Specificity Class II,1
+"Transplant's date,",Transplant date,1
+"Free PSA,",Free PSA,1
+"Free PSA,ng/mL",Free PSA,1
+"Free PSA/TOTAL PSA r,",Free PSA/total PSA ratio,1
+"PSA,ng/mL",PSA,1
+"Testosterone (ng/dL),ng/dL",Testosterone,1
+"Testosterone,ng/dL",Testosterone,1
+"Alkaline phosphatase,U/L",Alkaline phosphatase,1
+"ALT,U/L",ALT,1
+"AST,U/L",AST,1
+"Direct bilirubin,mg/dL",Direct bilirubin,1
+"Direct bilirubin,umol/L",Direct bilirubin,0.058479532
+"GGT,U/L",GGT,1
+"Total bilirubin,mg/dL",Total bilirubin,1
+"Total bilirubin,umol/L",Total bilirubin,0.058479532
+"Total Protein,g/L",Total Protein,1
+"Cholesterol,mg/dL",Cholesterol,1
+"Cholesterol,mmol/L",Cholesterol,38.61003861
+"HDL Cholesterol,mg/dL",HDL,1
+"HDL Cholesterol,mmol/L",HDL,38.61003861
+"LDL Cholesterol,mg/dL",LDL,1
+"LDL Cholesterol,mmol/L",LDL,38.61003861
+"LDL-C,mg/dL",LDL,1
+"LDL-Cholesterol,mg/dL",LDL,1
+"Triglyceride,mg/dL",Triglyceride,1
+"Triglyceride,mmol/L",Triglyceride,88.49557522
+"vpkd,mg/dL",vpkd,1
+"ANA (clotted blood),",ANA,1
+"Cyclosporin A,ng/mL",Cyclosporine A,1
+"FBS,mg/dL",glucose,1
+"Ferritin,ng/mL",Ferritin,1
+"Glucose (Heparin blo,mg/dL",glucose,1
+"Glucose (Heparin blo,mmol/L",glucose,18.01801802
+"Glucose (NaF),mg/dL",glucose,1
+"Glucose (NaF),mmol/L",glucose,18.01801802
+"Glucose (POCT - Accu,mg/dL",glucose,1
+"Glucose (POCT),mg/dL",glucose,1
+"Glucose (POCT:Stat s,mg/dL",glucose,1
+"Glucose (POCT:Stat s,mg/dL1",glucose,1
+"Glucose(Clotted bl.),mg/dL",glucose,1
+"Glucose(Clotted bl.),mmol/L",glucose,18.01801802
+"Glucose,mg/dL",glucose,1
+"HbA1C (EDTA-blood),%",HbA1C,1
+"Magnesium,mg/dL",Magnesium,1
+"Magnesium,mmol/L",Magnesium,2.430015552
+"POC-Glucose (ACCU-CH,mg/dL",glucose,1
+"POC-Glucose (stat st,mg/dL",glucose,1
+"Serum free T3,pg/mL",Serum free T3,1
+"Serum free T4,ng/dL",Serum free T4,1
+"Serum TSH,uIU/mL",Serum TSH,1
+"25-OH Vitamin D Tota,ng/mL",25-OH Vitamin D,1
+"Albumin,g/L",Albumin,0.1
+"Albumin/Creatinine R,mg/g",Albumin Creatinine Ratio,1
+"B2-Microglobulin [Se,mg/L",B2-Microglobulin,1
+"Blood urea nitrogen,mg/dL",BUN,1
+"Blood urea nitrogen,mmol/L",BUN,2.801120448
+"Creatinine (Random U,mg/dL",Urine creatinine,1
+"Creatinine(Random Ur,mg/dL",Urine creatinine,1
+"Creatinine,mg/dL",Serum creatinine,1
+"Creatinine,umol/L",Serum creatinine,0.011312217
+"Cystatin C,mg/L",Cystatin C,1
+"eGFR (CKD-EPI),ml/min/1.73 m\S\2",eGFR,1
+"eGFR (ค่าคำนวณ),ml/min/1.73 m\S\2",eGFR,1
+"eGFR,ml/min/1.73 m\S\2",eGFR,1
+"pH,",pH,1
+"PTH,pg/mL",PTH,1
+"Urea/Cr ratio (ค่าคำ,",Urea Creatinine Ratio,1
+"Uric acid,mg/dL",Uric acid,1
+"Uric acid,umol/L",Uric acid,0.016812374
+"Urine Creatinine,g/dL",Urine creatinine,1000
+"Urine NGAL,ng/mL",Urine NGAL,1
+"Urine Protein,mg/dL",Urine Protein,1
+"Albumin Urine,mg/dL",urine albumin,1
+"Calcium oxalate crys,/HPF",Calcium oxalate crys,1
+"Crystal cast,/LPF",Crystal cast,1
+"Epithelial cast,/LPF",Epithelial cast,1
+"Fatty cast,/LPF",Fatty cast,1
+"Glucose,",urine glucose,1
+"Granular cast,/LPF",Granular cast,1
+"Hyaline cast,/LPF",Hyaline cast,1
+"Ketones,",Ketones,1
+"Microalbumin in urin,mg/dL",urine microalbumin,1
+"Microalbumin,mg/dL",Microalbumin,1
+"Mixed cast,/LPF",Mixed cast,1
+"Nitrite,",Nitrite,1
+"Oval fat bodies,",Oval fat bodies,1
+"Protein,",Protein,1
+"RBC cast,/LPF",RBC cast,1
+"RBC,/HPF",RBC,1
+"Renal epithelial cel,/HPF",Renal epithelial cell,1
+"Sp. gr.,",Sp.gr.,1
+"Squamous epithelail,/HPF",Squamous epithelial cell,1
+"Sulfa cryst.,/HPF",Sulfa crystal,1
+"Uric acid cryst.,/HPF",Uric acid crystal,1
+"Waxy cast,/LPF",Waxy cast,1
+"WBC cast,/LPF",WBC cast,1
+"WBC,/HPF",WBC,1
+"Adeno Viral Load,Copies",Adeno Viral Load,1
+"Adeno Viral Load,cp/mL",Adeno Viral Load,1
+"Adenovirus,",Adenovirus,1
+"Anti HCV Interpret r,",Anti-HCV,1
+"Anti-HBc IgM,",Anti-HBc,1
+"Anti-HBs/ELISA,",Anti-HBs,1
+"Anti-HBs/ELISA,mIU/mL",Anti-HBs,1
+"Anti-HCV,",Anti-HCV,1
+"Anti-HIV,",Anti-HIV,1
+"Architech i2000,",Anti-HCV,1
+"Architech i2000,mIU/mL",Anti-HBs,1
+"BK Viral Load,Copies",BK Viral Load,1
+"CMV IgG,",CMV IgG,1
+"CMV IgG,AU/mL",CMV IgG,1
+"CMV IgG,IU/mL",CMV IgG,1
+"CMV IgG,UA/mL",CMV IgG,1
+"CMV IgM,",CMV IgM,1
+"CMV IgM,INDEX",CMV IgM,1
+"HBsAg Interpret resu,",HBsAg,1
+"HBsAg,",HBsAg,1
+"HIV Interpret result,",Anti-HIV,1
+"HIV Serodia,",Anti-HIV,1
+"Vitros 3600,",Anti-HBs,1
+"Vitros 3600,mIU/mL",Anti-HBs,1
