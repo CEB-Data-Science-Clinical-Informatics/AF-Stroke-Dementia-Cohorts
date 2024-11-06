@@ -19,7 +19,7 @@ class StandardFolder:
                 self.lab = self.folder / subfolder
             elif 'order' in subfolder:
                 self.order = self.folder / subfolder
-            elif ('diag' in subfolder) | ('dx' in subfolder):
+            elif ('diag' in subfolder) | ('dx' in subfolder) | ('diagnosis' in subfolder):
                 self.dx = self.folder / subfolder
             elif 'bill' in subfolder:
                 self.bill = self.folder / subfolder
@@ -33,7 +33,7 @@ class StandardFolder:
                 self.sx = self.folder / subfolder
             elif 'visit' in subfolder:
                 self.visit = self.folder / subfolder
-            elif 'demo' in subfolder:
+            elif ('demo' in subfolder) | ('demographic' in subfolder):
                 self.demo = self.folder / subfolder
             elif 'admi' in subfolder:
                 self.admission = self.folder / subfolder

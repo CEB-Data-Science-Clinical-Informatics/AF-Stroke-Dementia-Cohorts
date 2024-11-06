@@ -30,8 +30,11 @@ def scan_file(path: str) -> pl.LazyFrame:
     # Read ,
     return pl.scan_csv(path, separator=',', infer_schema_length=0)
 
-def parse_dates(lf: pl.LazyFrame, date_col: str) -> pl.LazyFrame:
+def parse_dates(lf: pl.LazyFrame, date_col: str, format: str = None) -> pl.LazyFrame:
     '''Parses a single date column in a DataFrame/LazyFrame.'''
+
+
+
     dtype = lf.select(pl.col(date_col)).dtypes[0]
     formats = ['%Y%m%d'] # TODO add all weird date formats we have (not time)
 
@@ -45,6 +48,10 @@ def parse_dates(lf: pl.LazyFrame, date_col: str) -> pl.LazyFrame:
     
     # Change str to Date
     if dtype == pl.Utf8:
+
+        if format:
+            return lf.with_columns(pl.col(date_col).str.strptime(pl.Date, format=format))
+        
         # Remove the time part
         lf = lf.with_columns(pl.col(date_col).str.split(' ').list.first())
 
