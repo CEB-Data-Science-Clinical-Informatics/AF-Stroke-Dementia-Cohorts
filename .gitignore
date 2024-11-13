@@ -1,2 +1,4 @@
 output/*
 src/__pycache__/*
+src/requests
+src/previous
